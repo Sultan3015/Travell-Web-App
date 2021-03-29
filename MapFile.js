@@ -68,5 +68,5 @@ set Component(value) {
 
 
 export default GoogleApiWrapper({
-  apiKey: 'AIzaSyD0rHJxe8AANuR7S_vIfk5SjmeEygramjU'
+  apiKey: ''
 })(MapContainer);
