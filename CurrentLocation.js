@@ -10,6 +10,7 @@ const mapStyles = {
     height:'100%',
     left: '58%',
     top: '92px',
+  
   }
 };
 
